@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Real-Time Chat Website",
+    "desc": "Fully fledged real-time chat web application. Built using React, WebsocketsL, NodeJS.",
+    "image": "realtimechat",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/divyansh-sharma-b0091324a_webdevelopment-reactjs-socketio-activity-7130405341384572928-n0v6?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Divyansh-465/CodeClauseWebDevelopment/tree/f012d2cb41a98d13f3a5e465ff9488a42131c5f8/Task%201-Basic%20Chat%20Application"
+    }
+  },
+  {
+    "name": "Tourist Website",
+    "desc": "An all time tourist website. Fully interative with Maps and Images. Built using HERE api, VanillaJS and Node.js",
+    "image": "tourcity",
+    "category": "web",
+    "links": {
+      "view": "https://citytouron.netlify.app/",
+      "code": "https://github.com/Divyansh-465/tourCity"
+    }
+  },
+  {
+    "name": "Video Conferencing Website",
+    "desc": "A customized video conferencing website, which allow users to interact with each other through video/audio and chatbox",
+    "image": "webpage",
+    "category": "web",
+    "links": {
+      "view": "https://drive.google.com/file/d/1hsnt2AGi3xzrp0RB0TNFmKt9_v_69e4b/view?usp=sharing",
+      "code": "https://github.com/Divyansh-465/video-conferencing-app"
+    }
+  }
+]
